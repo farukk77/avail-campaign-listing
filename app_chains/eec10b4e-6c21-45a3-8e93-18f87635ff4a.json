@@ -4,7 +4,7 @@
     "rpc_url": "http://164.68.119.189:9944",
     "explorer_url": "http://164.68.119.189:4000",
     "metrics_endpoint": "http://164.68.119.189:9615/metrics", 
-    "id": "eec10b4e-6c21-45a3-8e93-18f87635ff4a " //
+    "id": "eec10b4e-6c21-45a3-8e93-18f87635ff4a "
   }
 
 
